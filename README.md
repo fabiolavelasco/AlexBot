@@ -14,3 +14,8 @@ To interact with the ChatBot:
 Input Prompt: Provide a prompt or question to initiate the conversation.<br>
 Receive Response: The ChatBot generates a response based on the input prompt, continuing the conversation.<br>
 Repeat: Users can continue the conversation by providing additional prompts or questions, creating an interactive dialogue.
+
+## Requirements
+Python 3.x <br>
+OpenAI API access token <br>
+Dependencies: openai library
